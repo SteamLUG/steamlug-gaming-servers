@@ -1,0 +1,4 @@
+This should be a plain text file that looks like a csv, one server per line,
+in the format domain.example.com:port,gameqgametype
+
+You can discover the gameq game type from this list here https://github.com/Austinb/GameQ/tree/v2/gameq/protocols if it doesn’t occur in serverlist already.
